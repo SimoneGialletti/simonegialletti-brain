@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "example"
             }
+          },
+          {
+            "id": "b5187e3c9490761a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c3c20dc06bbdf5",
+  "active": "b5187e3c9490761a",
   "lastOpenFiles": [
     "test note.md",
     "example.md",
